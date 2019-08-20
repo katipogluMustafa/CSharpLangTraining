@@ -35,5 +35,3 @@
 ## Resources
 
 [Java's Virtual Machine and CLR](https://stackoverflow.com/questions/453610/javas-virtual-machine-and-clr)
-
-[Microsoft Intermediate Language - MSIL](http://vb.net-informations.com/framework/microsoft_intermediate_language.htm)
