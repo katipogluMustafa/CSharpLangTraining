@@ -31,6 +31,9 @@
 * The CLR, releases allocated memory back to the operating system if it's no longer needed.
   * The JVM will only free the allocated operating system memory under certain very specific circumstances. Otherwise, for the rest of the process lifetime that memory will remain allocated.
   * With the release of Java 13, The enhanced ZGC (Z Garbage Collector) fixes this issue.
+  
 ## Resources
 
 [Java's Virtual Machine and CLR](https://stackoverflow.com/questions/453610/javas-virtual-machine-and-clr)
+
+[Microsoft Intermediate Language - MSIL](http://vb.net-informations.com/framework/microsoft_intermediate_language.htm)
